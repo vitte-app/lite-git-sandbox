@@ -1,0 +1,13 @@
+{
+  "sysName": "Client",
+  "fields": [
+    {
+      "sysName": "id",
+      "type": "id"
+    },
+    {
+      "sysName": "title",
+      "type": "string"
+    }
+  ]
+}

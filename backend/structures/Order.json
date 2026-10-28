@@ -1,0 +1,14 @@
+{
+  "sysName": "Order",
+  "fields": [
+    {
+      "sysName": "id",
+      "type": "id"
+    },
+    {
+      "sysName": "client",
+      "type": "link",
+      "link": "Client"
+    }
+  ]
+}
