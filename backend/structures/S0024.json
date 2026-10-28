@@ -1,0 +1,13 @@
+{
+  "sysName": "S0024",
+  "fields": [
+    {
+      "sysName": "id",
+      "type": "id"
+    },
+    {
+      "sysName": "f24",
+      "type": "string"
+    }
+  ]
+}
