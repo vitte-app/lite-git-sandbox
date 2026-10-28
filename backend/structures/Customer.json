@@ -1,5 +1,8 @@
 {
-  "sysName": "Client",
+  "sysName": "Customer",
+  "renamedFrom": [
+    "Client"
+  ],
   "fields": [
     {
       "sysName": "id",
